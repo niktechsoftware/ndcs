@@ -1,0 +1,168 @@
+CRITICAL - 2022-01-01 16:40:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:40:34 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:40:39 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:43:13 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:43:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:49:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:49:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:52:11 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:52:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:52:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:52:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 16:54:45 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\ndcs\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\ndcs\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-01 12:33:03 --> Undefined property: CodeIgniter\View\View::$load
+#0 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1)
+#1 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#4 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-01 12:41:13 --> Invalid file: beforeloginCss.php
+#0 C:\xampp\htdocs\ndcs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beforeloginCss....')
+#1 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforeloginCss', Array, true)
+#2 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(1): view('beforeloginCss')
+#3 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#6 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-01 12:41:43 --> Invalid file: beforeloginCss.php
+#0 C:\xampp\htdocs\ndcs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beforeloginCss....')
+#1 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforeloginCss', Array, true)
+#2 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(1): view('beforeloginCss')
+#3 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#6 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#8 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-01-01 12:54:00 --> Undefined property: App\Controllers\Login::$input
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->index()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 12:58:18 --> Undefined property: App\Controllers\Login::$input
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->index()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 13:00:55 --> Undefined property: App\Controllers\Login::$input
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->index()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 13:14:46 --> Undefined property: App\Controllers\Login::$loginModel
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 11)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 13:51:13 --> Undefined constant "App\Controllers\this"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 13:51:17 --> Undefined constant "App\Controllers\this"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 13:52:49 --> Undefined constant "App\Controllers\this"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 13:53:25 --> Undefined constant "App\Controllers\check"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 13:53:51 --> Undefined property: App\Controllers\Login::$loginModel
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
