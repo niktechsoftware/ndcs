@@ -166,3 +166,164 @@ CRITICAL - 2022-01-01 13:53:51 --> Undefined property: App\Controllers\Login::$l
 #3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
 #5 {main}
+CRITICAL - 2022-01-01 14:23:25 --> Call to undefined method App\Controllers\Login::Loginmodel()
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 14:23:47 --> Class "App\Controllers\Loginmodel" not found
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 14:24:26 --> Class "App\Controllers\Loginmodel" not found
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 14:25:29 --> syntax error, unexpected namespaced name "App\Models"
+#0 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Logi...')
+#2 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(20): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Logi...')
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#4 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-01 14:26:35 --> syntax error, unexpected namespaced name "App\Models"
+#0 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Logi...')
+#2 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(20): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Logi...')
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#4 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-01 14:27:47 --> syntax error, unexpected namespaced name "App\Models"
+#0 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ndcs\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Logi...')
+#2 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(20): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Logi...')
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#4 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-01 14:30:34 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 14:31:55 --> Undefined variable $validation
+#0 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#4 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-01 14:31:58 --> Undefined variable $validation
+#0 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#4 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-01 14:32:01 --> Undefined variable $validation
+#0 C:\xampp\htdocs\ndcs\app\Views\beforelogin\login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\ndcs\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ndcs\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('beforelogin/log...', Array, true)
+#4 C:\xampp\htdocs\ndcs\app\Controllers\Home.php(9): view('beforelogin/log...')
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-01 14:42:09 --> Call to undefined method App\Models\LoginModel::row
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(24): CodeIgniter\Model->__call('row', Array)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 14:42:58 --> Undefined variable $result_num_rows
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 14:43:22 --> Call to undefined method App\Models\LoginModel::num_rows
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(24): CodeIgniter\Model->__call('num_rows', Array)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 14:43:37 --> Undefined constant "App\Controllers\num_rows"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 14:44:31 --> CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in C:\xampp\htdocs\ndcs\system\Model.php on line 723
+#0 C:\xampp\htdocs\ndcs\system\Model.php(723): CodeIgniter\Database\BaseBuilder->get('login_table')
+#1 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(23): CodeIgniter\Model->__call('get', Array)
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-01 14:44:46 --> Undefined constant "App\Controllers\num_rows"
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 15:09:15 --> Invalid file: Admin.php
+#0 C:\xampp\htdocs\ndcs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin.php')
+#1 C:\xampp\htdocs\ndcs\system\Common.php(1097): CodeIgniter\View\View->render('Admin', Array, true)
+#2 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(31): view('Admin')
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#4 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-01 15:13:21 --> Attempt to read property "username" on null
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 15:13:42 --> Attempt to read property "username" on null
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-01 15:14:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::gerResult()
+#0 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-01 15:14:48 --> Attempt to read property "username" on null
+#0 C:\xampp\htdocs\ndcs\app\Controllers\Login.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(824): App\Controllers\Login->login_check()
+#2 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\ndcs\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ndcs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
