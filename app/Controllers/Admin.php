@@ -2,12 +2,11 @@
 
 namespace App\Controllers;
 
-class Home extends BaseController
+class Admin extends BaseController
 {
     public function index()
     {
-    	$data['validation'] =0;
-        return view('beforelogin/login',$data);
+    	return view('welcome_message');
     }
 	public function dashboard()
 	{
